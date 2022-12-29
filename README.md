@@ -27,7 +27,7 @@ I am learning full stack web development from Masai School.
 ### Social Media 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhishek1337chatterjee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishekchatterjee-saheb1337/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/saheb1337) 
 
-![snake gif](https://github.com/abhishek1337chatterjee/abhishek1337chatterjee/blob/output/github-contribution-grid-snake.gif#gh-dark-mode-only) 
+![snake gif](https://github.com/abhishek1337chatterjee/abhishek1337chatterjee/blob/output/github-contribution-grid-snake.svg) 
 
 
 
