@@ -12,7 +12,7 @@ I am learning full stack web development from Masai School.
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhishek1337chatterjee&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek1337chatterjee&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek1337chatterjee&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek1337chatterjee&show_icons=true&theme=radical)  
 
