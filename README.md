@@ -15,7 +15,7 @@ I am learning full stack web development from Masai School.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek1337chatterjee)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek1337chatterjee&show_icons=true&count_private=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek1337chatterjee&show_icons=true&theme=radical)  
 
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhishek1337chatterjee&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
