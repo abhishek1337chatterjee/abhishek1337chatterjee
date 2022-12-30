@@ -29,7 +29,7 @@ I am learning full stack web development from Masai School.
 <h2 align="left">Github Metrics </h2>
 
 
-![Metrics](https://metrics.lecoq.io/abhishek1337chatterjee?template=classic&base.indepth=true&isocalendar=1&habits=1&people=1&achievements=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=chartist&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=Asia%2FCalcutta&config.octicon=true&config.display=large)
+![Metrics](https://metrics.lecoq.io/abhishek1337chatterjee?template=classic&base.indepth=true&isocalendar=1&people=1&achievements=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&people=false&people.limit=31&people.identicons=false&people.identicons.hide=false&people.size=53&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=Asia%2FCalcutta&config.octicon=true&config.display=large)
 
 
 <h2 align="left">Social Media </h2>
