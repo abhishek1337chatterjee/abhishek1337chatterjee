@@ -24,6 +24,12 @@ I am learning full stack web development from Masai School.
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abhishek1337chatterjee&theme=radical) 
 
+
+<h2 align="left">Social Media </h2>
+
+
+[<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Github_white.svg' alt='github' height='40' width='60'>](https://github.com/abhishek1337chatterjee)  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg' alt='linkedin' height='40' width='60'>](https://www.linkedin.com/in/abhishekchatterjee-saheb1337/)  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Twitter_white.svg' alt='twitter' height='40' width='60'>](https://twitter.com/saheb1337) 
+
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhishek1337chatterjee&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2 align="left">Github Metrics </h2>
@@ -32,10 +38,6 @@ I am learning full stack web development from Masai School.
 ![Metrics](https://metrics.lecoq.io/abhishek1337chatterjee?template=classic&base.indepth=true&isocalendar=1&people=1&achievements=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&people=false&people.limit=31&people.identicons=false&people.identicons.hide=false&people.size=53&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=Asia%2FCalcutta&config.octicon=true&config.display=large)
 
 
-<h2 align="left">Social Media </h2>
-
-
-[<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Github_white.svg' alt='github' height='40' width='60'>](https://github.com/abhishek1337chatterjee)  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg' alt='linkedin' height='40' width='60'>](https://www.linkedin.com/in/abhishekchatterjee-saheb1337/)  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Twitter_white.svg' alt='twitter' height='40' width='60'>](https://twitter.com/saheb1337) 
 
 ![snake gif](https://github.com/abhishek1337chatterjee/abhishek1337chatterjee/blob/output/github-contribution-grid-snake.svg) 
 
