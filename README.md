@@ -46,11 +46,14 @@ I am learning full stack web development from Masai School.
 
 
 ![Metrics](https://metrics.lecoq.io/abhishek1337chatterjee?template=classic&base.indepth=true&isocalendar=1&people=1&achievements=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&people=false&people.limit=31&people.identicons=false&people.identicons.hide=false&people.size=53&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=Asia%2FCalcutta&config.octicon=true&config.display=large)
+ 
 
 
 
 ![snake gif](https://github.com/abhishek1337chatterjee/abhishek1337chatterjee/blob/output/github-contribution-grid-snake.svg) 
-
+ 
+ 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ![Profile views](https://gpvc.arturio.dev/abhishek1337chatterjee) 
