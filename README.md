@@ -40,7 +40,7 @@ I am learning full stack web development from Masai School.
 
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Github_white.svg' alt='github' height='40' width='60'>](https://github.com/abhishek1337chatterjee)  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg' alt='linkedin' height='40' width='60'>](https://www.linkedin.com/in/abhishekchatterjee-saheb1337/)  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Twitter_white.svg' alt='twitter' height='40' width='60'>](https://twitter.com/saheb1337) 
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhishek1337chatterjee&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek1337chatterjee&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2 align="left">Github Metrics </h2>
 
