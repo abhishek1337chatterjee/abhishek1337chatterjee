@@ -56,6 +56,5 @@ I am learning full stack web development from Masai School.
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-![Profile views](https://gpvc.arturio.dev/abhishek1337chatterjee) 
-
+![Profile views](https://komarev.com/ghpvc/?username=abhishek1337chatterjee&color=orange)
  
