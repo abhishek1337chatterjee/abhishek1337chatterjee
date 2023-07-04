@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Chatterj</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Chatterjee/h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1200&color=F75C7E&center=true&vCenter=true&width=1200&lines=Hi+there+%F0%9F%91%8B%2C;My+name+is+Abhishek+Chatterjee++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+am+a+web+developer;Always+curious+to+learn+new+things;And+implement+them+%F0%9F%98%87)](https://git.io/typing-svg)
 #### I am a passionate web developer
